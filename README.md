@@ -1,11 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Efe%20Bulut&fontSize=48&fontColor=ffffff&color=0:0d1117,100:2F81F7&animation=fadeIn&fontAlignY=38" alt="Efe Bulut" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
+  <img src="banner-light.svg" width="100%" alt="Efe Bulut">
+</picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=550&height=45&lines=Software+Engineering+Student;Building+web+and+desktop+apps;Always+learning+something+new" alt="Typing SVG" />
+<br> <br>
+Software Engineering student at Cyprus International University.
 
-<br><br>
- Software Engineering student at Cyprus International University. I build web and desktop apps.
 </div>
 
 
