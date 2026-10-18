@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Efe%20Bulut&fontSize=48&fontColor=ffffff&color=0:0d1117,100:2F81F7&animation=fadeIn&fontAlignY=38" alt="Efe Bulut" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2558a1&center=true&vCenter=true&width=550&height=45&lines=Software+Engineering+Student;Building+web+and+desktop+apps;Always+learning+something+new" alt="Typing SVG" />
+<img src="banner-clear.svg" width="100%" alt="Efe Bulut">
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=550&height=45&lines=Software+Engineering+Student;Building+web+and+desktop+apps;Always+learning+something+new" alt="Typing SVG" />
 
 </div>
 
 
 ## About Me
-I love building software, and I study and practice it every day. Outside of class I build my own projects and try to learn something new from each one. I've also started freelance web work, building a website for a marina client in Northern Cyprus.
+I'm a Software Engineering student at Cyprus International University. I love building software, and I study and practice it every day. Outside of class I build my own projects and try to learn something new from each one. I've also started freelance web work, building a website for a marina client in Northern Cyprus.
 
 Right now I'm practicing algorithms and data structures in C++ and Python.
 
